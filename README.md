@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Suryan5h?style=for-the-badge&logo=appveyor)
 ![GitHub User's stars](https://img.shields.io/github/stars/Suryan5h?affiliations=OWNER&style=for-the-badge&logo=appveyor)
 
-- 🔭 I’m currently working at Bank Of America, Mumbai as a Software Engineer in Prime Brokerage team. I like to talk about python data structures and algorithms, competitive coding, data science and health&fitness.
+- 🔭 I’m currently working at Bank Of America, Mumbai as a Software Engineer in Prime Brokerage Margin and Risk team. I like to talk about python data structures and algorithms, competitive coding, data science and health&fitness.
 
 - ⚡ I use languages such as Python, SQL to build machine learning projects.
 
