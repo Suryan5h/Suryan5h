@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Analytics (Data Visualization, Exploratory Data Analysis and Inferential Statistics).
 
-- 📫 How to reach me:   [![Linkedin](https://imgur.com/PXyIkWx.png)(https://www.linkedin.com/in/suryanshbhardwaj46/) [![Github](https://imgur.com/evWgFgB.png)](https://github.com/Suryan5h)
+- 📫 How to reach me:   [![Linkedin](https://imgur.com/PXyIkWx.png)](https://www.linkedin.com/in/suryanshbhardwaj46/) [![Github](https://imgur.com/evWgFgB.png)](https://github.com/Suryan5h)
