@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Suryan5h?style=for-the-badge&logo=appveyor)
 ![GitHub User's stars](https://img.shields.io/github/stars/Suryan5h?affiliations=OWNER&style=for-the-badge&logo=appveyor)
 
+- 🔭 I’m currently working at Bank Of America, India as a Software Engineer.
 
-- 🤖 I am mostly interested in nything related to robotics: autonomous navigaition, autonomous manipulation, and artificial intelligence. You can see this by following my pinned repos and the carreer path on [LinkedIn](https://www.linkedin.com/in/victorezekiel/). I have a B.Eng in Mechanical Engineering.
+- ⚡ I use languages such as Python, SQL to build machine learning projects to kick start my career as a data scientist.
 
-- ⚡ I am use languages such as Python, and C++ to build robotics and AI projects with the hope of one day developing autonomous vehicles.
+- 🌱 I’m currently learning Data Analytics (Data Visualization, Exploratory Data Analysis and Inferential Statistics).
 
-- 📫 How to reach me: 
+- 📫 How to reach me:   
 <!--[![Twitter](https://imgur.com/XVWizm5.png)](https://twitter.com/Suryan5h)-->
 [![Linkedin](https://imgur.com/PXyIkWx.png)](https://www.linkedin.com/in/suryanshbhardwaj46/)
 [![Github](https://imgur.com/evWgFgB.png)](https://github.com/Suryan5h)
