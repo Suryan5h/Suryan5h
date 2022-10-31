@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ I use languages such as Python, SQL to build machine learning projects.
 
 - 🌱 I’m currently learning Data Analytics (Data Visualization, Exploratory Data Analysis and Inferential Statistics), Big data (RDD, Apache Spark) and cloud!
-Starting to practice ML/NLP algorithms now (Linear Regression/Logistic Regression)
+Starting to practice ML/NLP algorithms now (Linear Regression/Logistic Regression/Decision Trees)
 
 - 📫 How to reach me:   [![Linkedin](https://imgur.com/PXyIkWx.png)](https://www.linkedin.com/in/suryanshbhardwaj46/) [![Github](https://imgur.com/evWgFgB.png)](https://github.com/Suryan5h)
